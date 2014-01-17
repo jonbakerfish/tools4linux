@@ -1,0 +1,6 @@
+mwget_0.1.0.orig/
+openssl-1.0.1e/
+openyoudao/
+*.tar
+*.bz2
+*.gz
